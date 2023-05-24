@@ -11,7 +11,7 @@
 
 ## What is Korean Sarcasm Dataset
 
-* Mass of documents consists of one or more sentences from sports article comments, Twitter, NaverMovieReview which are likely to have **sarcastic** or **ironic** contents.
+* Mass of documents consists of one or more sentences from sports article comments, Twitter and NaverMovieReview which are likely to have **sarcastic** or **ironic** contents.
 
 
 ## Data Format
