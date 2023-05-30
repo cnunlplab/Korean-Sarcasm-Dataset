@@ -18,10 +18,9 @@
 * The dataset is organized in units of documents, and one document consists of one or more sentences.
 * 'DOC_ID': Unique ID for document identification.
 * 'number_of_sentences': The number of sentences that make up a document.
-* 'sentences': A list containing information about the sentences that make up a document. Dictionary, which is an element type of the list, has 'text', 'label', and 'morph_result' as key values.
+* 'sentences': A list containing information about the sentences that make up a document. Dictionary, which is an element type of the list, has 'text' and 'label' as key values.
   * 'text': Raw corpus in units of a sentence
   * 'label': Label for the sentence
-  * 'morph_result': Morphological analysis for the sentence
 
 
 ## Number of Data
